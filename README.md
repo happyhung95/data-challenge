@@ -1,5 +1,5 @@
 # Data challenge
-A challenge to analyze data from the customer service department of a cryptocurrency trading platform, whose name and datasets cannot be public due to the confidentiality agreement. 
+A challenge to analyze data for the customer service department of a cryptocurrency trading platform, whose name and datasets cannot be public due to the confidentiality agreement. 
 
 The datasets were relatively small (under 10k data). The challenge was completed with Python and Pandas.
 
@@ -7,7 +7,7 @@ The tasks were as followed:
 
 >Task A: Email comments
 >Analyze how many (approximately) clients contacted us over the time span recorded in the data
->complaining about their margin positions being closed /liquidated due to >the 28-day rule for U.S.
+>complaining about their margin positions being closed /liquidated due to the 28-day rule for U.S.
 >citizens.
 >1. Write a brief summary for the product team conveying the impact this >issue has on the
 >client experience in a couple sentences (a supporting data visualization >is encouraged).
