@@ -6,6 +6,7 @@ The datasets were relatively small (under 10k data). The challenge was completed
 The tasks were as followed:
 
 >Task A: Email comments
+
 >Analyze how many (approximately) clients contacted us over the time span recorded in the data
 >complaining about their margin positions being closed /liquidated due to the 28-day rule for U.S.
 >citizens.
@@ -14,6 +15,7 @@ The tasks were as followed:
 >Dataset: comments.json
 
 >Task B: Chat coverage
+
 >1. Comment on the coverage levels for this support function. During which time zones/days of
 >the week is the department consistently falling short of 100% coverage?
 >2. The department lead wants to estimate the volume of chats would be during the hours
